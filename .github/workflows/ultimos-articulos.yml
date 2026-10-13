@@ -1,0 +1,18 @@
+# Actualiza la lista "Lo último en la web" del README con los 5 artículos más recientes.
+name: Últimos artículos
+on:
+  schedule:
+    - cron: "0 7 * * *"   # cada día a las 7:00 UTC
+  workflow_dispatch:       # y cuando lo lances a mano desde la pestaña Actions
+permissions:
+  contents: write
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://sergiolearns.com/feed/"
+          max_post_count: 5
+          commit_message: "Actualiza los últimos artículos de la web"
