@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [Mutabilidad, copias y matrices en Python — ejercicios](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python-ejercicios/)
-- [Mutabilidad, copias y matrices en Python — práctica](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python-practica/)
-- [Mutabilidad, copias y matrices en Python — teoría](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python/)
-- [Listas y tuplas en Python — ejercicios](https://sergiolearns.com/listas-y-tuplas-en-python-ejercicios/)
-- [Listas y tuplas en Python — práctica](https://sergiolearns.com/listas-y-tuplas-en-python-practica/)
+- [Mutabilidad, copias y matrices en Python — ejercicios con una lista de la compra, un ticket y un stock de almacenes &lpar;y el producto que zip se comió&rpar;](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python-ejercicios/)
+- [Mutabilidad, copias y matrices en Python — práctica con un ticket de compra, un carrito que cambia y una tabla de precios &lpar;y la lista ordenada que era None&rpar;](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python-practica/)
+- [Mutabilidad, copias y matrices en Python — teoría con un carrito de la compra, zip y list comprehension &lpar;y la copia que no era una copia&rpar;](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python/)
+- [Listas y tuplas en Python — ejercicios con recortes, un resumen de clase y aprobados contra suspensos &lpar;y la tupla de seis elementos que solo tenía uno&rpar;](https://sergiolearns.com/listas-y-tuplas-en-python-ejercicios/)
+- [Listas y tuplas en Python — práctica con estadísticas de clase, un buscador de alumnos y medias móviles &lpar;y la nota mínima que era un cero que nadie había sacado&rpar;](https://sergiolearns.com/listas-y-tuplas-en-python-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
