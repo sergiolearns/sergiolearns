@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Recursividad en Python — ejercicios con la cola del comedor, una salida al revés y una cola encadenada &lpar;y la persona de más que nunca existió&rpar;](https://sergiolearns.com/recursividad-en-python-ejercicios/)
+- [Recursividad en Python — práctica con la cola del comedor, una búsqueda de turnos con traza y un pedido de grupo &lpar;y el turno que estaba en la posición equivocada&rpar;](https://sergiolearns.com/recursividad-en-python-practica/)
+- [Recursividad en Python — teoría con la cola del comedor, la pila de llamadas y una potencia que se hace rápida &lpar;y la función que nunca dejaba de preguntar&rpar;](https://sergiolearns.com/recursividad-en-python/)
 - [Mutabilidad, copias y matrices en Python — ejercicios con una lista de la compra, un ticket y un stock de almacenes &lpar;y el producto que zip se comió&rpar;](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python-ejercicios/)
 - [Mutabilidad, copias y matrices en Python — práctica con un ticket de compra, un carrito que cambia y una tabla de precios &lpar;y la lista ordenada que era None&rpar;](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python-practica/)
-- [Mutabilidad, copias y matrices en Python — teoría con un carrito de la compra, zip y list comprehension &lpar;y la copia que no era una copia&rpar;](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python/)
-- [Listas y tuplas en Python — ejercicios con recortes, un resumen de clase y aprobados contra suspensos &lpar;y la tupla de seis elementos que solo tenía uno&rpar;](https://sergiolearns.com/listas-y-tuplas-en-python-ejercicios/)
-- [Listas y tuplas en Python — práctica con estadísticas de clase, un buscador de alumnos y medias móviles &lpar;y la nota mínima que era un cero que nadie había sacado&rpar;](https://sergiolearns.com/listas-y-tuplas-en-python-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
