@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Contenedores asociativos en Python — ejercicios con duraciones, géneros musicales y un recomendador de canciones &lpar;y las llaves vacías que no eran un conjunto&rpar;](https://sergiolearns.com/contenedores-asociativos-en-python-ejercicios/)
+- [Contenedores asociativos en Python — práctica con un contador de reproducciones, gustos que se cruzan y una biblioteca de playlists &lpar;y el bucle que se quejó de que el diccionario cambiaba&rpar;](https://sergiolearns.com/contenedores-asociativos-en-python-practica/)
+- [Contenedores asociativos en Python — teoría con una playlist, diccionarios dentro de diccionarios y conjuntos que se cruzan &lpar;y el contador que explotó en la primera canción&rpar;](https://sergiolearns.com/contenedores-asociativos-en-python/)
 - [Recursividad en Python — ejercicios con la cola del comedor, una salida al revés y una cola encadenada &lpar;y la persona de más que nunca existió&rpar;](https://sergiolearns.com/recursividad-en-python-ejercicios/)
 - [Recursividad en Python — práctica con la cola del comedor, una búsqueda de turnos con traza y un pedido de grupo &lpar;y el turno que estaba en la posición equivocada&rpar;](https://sergiolearns.com/recursividad-en-python-practica/)
-- [Recursividad en Python — teoría con la cola del comedor, la pila de llamadas y una potencia que se hace rápida &lpar;y la función que nunca dejaba de preguntar&rpar;](https://sergiolearns.com/recursividad-en-python/)
-- [Mutabilidad, copias y matrices en Python — ejercicios con una lista de la compra, un ticket y un stock de almacenes &lpar;y el producto que zip se comió&rpar;](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python-ejercicios/)
-- [Mutabilidad, copias y matrices en Python — práctica con un ticket de compra, un carrito que cambia y una tabla de precios &lpar;y la lista ordenada que era None&rpar;](https://sergiolearns.com/mutabilidad-copias-y-matrices-en-python-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
