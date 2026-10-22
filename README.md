@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Strings en Python — ejercicios con correos de la universidad, firmas con iniciales y un parte de asistencia &lpar;y los dos espacios que rompieron mis iniciales&rpar;](https://sergiolearns.com/strings-en-python-ejercicios/)
+- [Strings en Python — práctica limpiando una lista de clase, validando DNIs y sacando un acta alineada &lpar;y el 7,5 que float&lpar;&rpar; no quiso leer&rpar;](https://sergiolearns.com/strings-en-python-practica/)
+- [Strings en Python — teoría con una lista de clase, índices que empiezan en cero y f-strings que alinean columnas &lpar;y el strip&lpar;&rpar; que no limpió nada&rpar;](https://sergiolearns.com/strings-en-python/)
 - [Contenedores asociativos en Python — ejercicios con duraciones, géneros musicales y un recomendador de canciones &lpar;y las llaves vacías que no eran un conjunto&rpar;](https://sergiolearns.com/contenedores-asociativos-en-python-ejercicios/)
 - [Contenedores asociativos en Python — práctica con un contador de reproducciones, gustos que se cruzan y una biblioteca de playlists &lpar;y el bucle que se quejó de que el diccionario cambiaba&rpar;](https://sergiolearns.com/contenedores-asociativos-en-python-practica/)
-- [Contenedores asociativos en Python — teoría con una playlist, diccionarios dentro de diccionarios y conjuntos que se cruzan &lpar;y el contador que explotó en la primera canción&rpar;](https://sergiolearns.com/contenedores-asociativos-en-python/)
-- [Recursividad en Python — ejercicios con la cola del comedor, una salida al revés y una cola encadenada &lpar;y la persona de más que nunca existió&rpar;](https://sergiolearns.com/recursividad-en-python-ejercicios/)
-- [Recursividad en Python — práctica con la cola del comedor, una búsqueda de turnos con traza y un pedido de grupo &lpar;y el turno que estaba en la posición equivocada&rpar;](https://sergiolearns.com/recursividad-en-python-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
