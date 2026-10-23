@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Expresiones regulares en Python — ejercicios con validadores, DNIs escondidos en un informe y dos logs que unificar &lpar;y la alerta que decía «Todo bien»&rpar;](https://sergiolearns.com/expresiones-regulares-en-python-ejercicios/)
+- [Expresiones regulares en Python — práctica con el log de un servidor: filtrar errores, contar intentos de acceso y convertirlo a CSV &lpar;y la IP que llamaba tres veces por segundo&rpar;](https://sergiolearns.com/expresiones-regulares-en-python-practica/)
+- [Expresiones regulares en Python — teoría con los logs de un servidor, grupos que trocean cada línea y patrones avariciosos &lpar;y el 404 que no era un 404&rpar;](https://sergiolearns.com/expresiones-regulares-en-python/)
 - [Strings en Python — ejercicios con correos de la universidad, firmas con iniciales y un parte de asistencia &lpar;y los dos espacios que rompieron mis iniciales&rpar;](https://sergiolearns.com/strings-en-python-ejercicios/)
 - [Strings en Python — práctica limpiando una lista de clase, validando DNIs y sacando un acta alineada &lpar;y el 7,5 que float&lpar;&rpar; no quiso leer&rpar;](https://sergiolearns.com/strings-en-python-practica/)
-- [Strings en Python — teoría con una lista de clase, índices que empiezan en cero y f-strings que alinean columnas &lpar;y el strip&lpar;&rpar; que no limpió nada&rpar;](https://sergiolearns.com/strings-en-python/)
-- [Contenedores asociativos en Python — ejercicios con duraciones, géneros musicales y un recomendador de canciones &lpar;y las llaves vacías que no eran un conjunto&rpar;](https://sergiolearns.com/contenedores-asociativos-en-python-ejercicios/)
-- [Contenedores asociativos en Python — práctica con un contador de reproducciones, gustos que se cruzan y una biblioteca de playlists &lpar;y el bucle que se quejó de que el diccionario cambiaba&rpar;](https://sergiolearns.com/contenedores-asociativos-en-python-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
