@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [Expresiones regulares en Python — ejercicios con validadores, DNIs escondidos en un informe y dos logs que unificar &lpar;y la alerta que decía «Todo bien»&rpar;](https://sergiolearns.com/expresiones-regulares-en-python-ejercicios/)
-- [Expresiones regulares en Python — práctica con el log de un servidor: filtrar errores, contar intentos de acceso y convertirlo a CSV &lpar;y la IP que llamaba tres veces por segundo&rpar;](https://sergiolearns.com/expresiones-regulares-en-python-practica/)
-- [Expresiones regulares en Python — teoría con los logs de un servidor, grupos que trocean cada línea y patrones avariciosos &lpar;y el 404 que no era un 404&rpar;](https://sergiolearns.com/expresiones-regulares-en-python/)
-- [Strings en Python — ejercicios con correos de la universidad, firmas con iniciales y un parte de asistencia &lpar;y los dos espacios que rompieron mis iniciales&rpar;](https://sergiolearns.com/strings-en-python-ejercicios/)
-- [Strings en Python — práctica limpiando una lista de clase, validando DNIs y sacando un acta alineada &lpar;y el 7,5 que float&lpar;&rpar; no quiso leer&rpar;](https://sergiolearns.com/strings-en-python-practica/)
+- [El preprocesador en C — ejercicios con el aforo de un ascensor, un limitador de plantas y un simulador con trazas &lpar;y el DEBUG 0 que no apagaba nada&rpar;](https://sergiolearns.com/preprocesador-en-c-ejercicios/)
+- [El preprocesador en C — práctica con el panel de un ascensor, un registro de depuración y tres modelos en un solo archivo &lpar;y la entrega que llegó llena de trazas&rpar;](https://sergiolearns.com/preprocesador-en-c-practica/)
+- [El preprocesador en C — teoría con un ascensor, #define, macros y #ifdef &lpar;y las seis personas que pesaban 154 kg&rpar;](https://sergiolearns.com/preprocesador-en-c/)
+- [Structs y cadenas en C — ejercicios con la cartelera, tus propias funciones de string.h y fichas de espectadores que llegan rotas &lpar;y la entrada VIP que siempre costaba 8 euros&rpar;](https://sergiolearns.com/structs-y-cadenas-en-c-ejercicios/)
+- [Structs y cadenas en C — práctica con la sala de un cine, un buscador de espectadores y una taquilla en el heap &lpar;y la Lucía que el programa juraba que no existía&rpar;](https://sergiolearns.com/structs-y-cadenas-en-c-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
