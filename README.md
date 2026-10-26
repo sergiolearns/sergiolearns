@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [El preprocesador en C — ejercicios con el aforo de un ascensor, un limitador de plantas y un simulador con trazas &lpar;y el DEBUG 0 que no apagaba nada&rpar;](https://sergiolearns.com/preprocesador-en-c-ejercicios/)
-- [El preprocesador en C — práctica con el panel de un ascensor, un registro de depuración y tres modelos en un solo archivo &lpar;y la entrega que llegó llena de trazas&rpar;](https://sergiolearns.com/preprocesador-en-c-practica/)
-- [El preprocesador en C — teoría con un ascensor, #define, macros y #ifdef &lpar;y las seis personas que pesaban 154 kg&rpar;](https://sergiolearns.com/preprocesador-en-c/)
-- [Structs y cadenas en C — ejercicios con la cartelera, tus propias funciones de string.h y fichas de espectadores que llegan rotas &lpar;y la entrada VIP que siempre costaba 8 euros&rpar;](https://sergiolearns.com/structs-y-cadenas-en-c-ejercicios/)
-- [Structs y cadenas en C — práctica con la sala de un cine, un buscador de espectadores y una taquilla en el heap &lpar;y la Lucía que el programa juraba que no existía&rpar;](https://sergiolearns.com/structs-y-cadenas-en-c-practica/)
+- [Llamadas al sistema en C — teoría con open, read, write, lseek y una partida guardada encima de otra &lpar;y los puntos que no eran míos&rpar;](https://sergiolearns.com/llamadas-al-sistema-en-c/)
+- [Llamadas al sistema en C — práctica guardando, copiando y editando partidas con open, read, write y lseek &lpar;y la copia que medía 96 bytes&rpar;](https://sergiolearns.com/llamadas-al-sistema-en-c-practica/)
+- [Llamadas al sistema en C — ejercicios con contadores de bytes, O_APPEND, un ranking de partidas y tres fallos de lseek y read &lpar;y la partida que se negó a ir al principio&rpar;](https://sergiolearns.com/llamadas-al-sistema-en-c-ejercicios/)
+- [Procesos en Linux con C — ejercicios con cocineros que se multiplican, búferes que se duplican y códigos de salida que mienten &lpar;y la cocina que contrató a siete cocineros&rpar;](https://sergiolearns.com/procesos-en-c-ejercicios/)
+- [Procesos en Linux con C — práctica con un jefe de cocina, cocineros que trabajan a la vez y un pase que lanza órdenes de verdad &lpar;y el servicio que cerró antes de tiempo&rpar;](https://sergiolearns.com/procesos-en-c-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
