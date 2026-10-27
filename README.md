@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Permisos en Linux — teoría con chmod en octal y en letras, umask y la carpeta de un trabajo en grupo &lpar;y el script que no quería arrancar&rpar;](https://sergiolearns.com/permisos-en-linux/)
+- [Permisos en Linux — práctica con la carpeta de un trabajo en grupo, tres usuarios y un revisor de permisos &lpar;y la compañera que no podía compilar&rpar;](https://sergiolearns.com/permisos-en-linux-practica/)
+- [Permisos en Linux — ejercicios con chmod, umask y una carpeta de entregas compartida &lpar;y el chmod -R que me dejó fuera de mi propia carpeta&rpar;](https://sergiolearns.com/permisos-en-linux-ejercicios/)
 - [Llamadas al sistema en C — teoría con open, read, write, lseek y una partida guardada encima de otra &lpar;y los puntos que no eran míos&rpar;](https://sergiolearns.com/llamadas-al-sistema-en-c/)
 - [Llamadas al sistema en C — práctica guardando, copiando y editando partidas con open, read, write y lseek &lpar;y la copia que medía 96 bytes&rpar;](https://sergiolearns.com/llamadas-al-sistema-en-c-practica/)
-- [Llamadas al sistema en C — ejercicios con contadores de bytes, O_APPEND, un ranking de partidas y tres fallos de lseek y read &lpar;y la partida que se negó a ir al principio&rpar;](https://sergiolearns.com/llamadas-al-sistema-en-c-ejercicios/)
-- [Procesos en Linux con C — ejercicios con cocineros que se multiplican, búferes que se duplican y códigos de salida que mienten &lpar;y la cocina que contrató a siete cocineros&rpar;](https://sergiolearns.com/procesos-en-c-ejercicios/)
-- [Procesos en Linux con C — práctica con un jefe de cocina, cocineros que trabajan a la vez y un pase que lanza órdenes de verdad &lpar;y el servicio que cerró antes de tiempo&rpar;](https://sergiolearns.com/procesos-en-c-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
