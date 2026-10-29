@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Shell scripts en Linux — teoría con un corrector de prácticas de C, parámetros que llegan partidos y un if que no compara nada &lpar;y el script que siguió como si nada&rpar;](https://sergiolearns.com/shell-scripts-en-linux/)
+- [Shell scripts en Linux — práctica con un corrector que compila, prueba y pone nota a las entregas de C &lpar;y la práctica que «compilaba» sin compilar&rpar;](https://sergiolearns.com/shell-scripts-en-linux-practica/)
+- [Shell scripts en Linux — ejercicios con parámetros que llevan espacios, notas que hay que validar y una lista de alumnos que corregir &lpar;y el archivo «3» que apareció en la carpeta&rpar;](https://sergiolearns.com/shell-scripts-en-linux-ejercicios/)
 - [Redirecciones y tuberías en Linux — teoría con el registro del aula, el misterioso orden de 2&gt;&amp;1 y filtros que se encadenan &lpar;y un sort que me dejó sin la lista del grupo&rpar;](https://sergiolearns.com/redirecciones-y-tuberias-en-linux/)
 - [Redirecciones y tuberías en Linux — práctica con un informe que crece con &gt;&gt;, un ranking guardado con tee y avisos separados de lo correcto &lpar;y el informe que se comió a sí mismo&rpar;](https://sergiolearns.com/redirecciones-y-tuberias-en-linux-practica/)
-- [Redirecciones y tuberías en Linux — ejercicios con intentos fallidos, rankings que se parten y un 2&gt;&amp;1 en el sitio equivocado &lpar;y un grep que contaba cero errores con la pantalla llena de ellos&rpar;](https://sergiolearns.com/redirecciones-y-tuberias-en-linux-ejercicios/)
-- [Permisos en Linux — teoría con chmod en octal y en letras, umask y la carpeta de un trabajo en grupo &lpar;y el script que no quería arrancar&rpar;](https://sergiolearns.com/permisos-en-linux/)
-- [Permisos en Linux — práctica con la carpeta de un trabajo en grupo, tres usuarios y un revisor de permisos &lpar;y la compañera que no podía compilar&rpar;](https://sergiolearns.com/permisos-en-linux-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
