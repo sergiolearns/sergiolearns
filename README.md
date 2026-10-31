@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Configuración de red en Linux — teoría con ip, ifcfg y resolv.conf &lpar;y la IP que desapareció al reiniciar&rpar;](https://sergiolearns.com/configuracion-de-red-en-linux/)
+- [Configuración de red en Linux — práctica con una estación desde cero, otra mal configurada y un script que lee el ifcfg &lpar;y un ping que solo llegaba a medias&rpar;](https://sergiolearns.com/configuracion-de-red-en-linux-practica/)
+- [Configuración de red en Linux — ejercicios con la ficha de la estación, órdenes de ifconfig traducidas y un ifcfg generado &lpar;y el /32 que dejó sola a la tarjeta&rpar;](https://sergiolearns.com/configuracion-de-red-en-linux-ejercicios/)
 - [vi en Linux — teoría con los tres modos, órdenes que se combinan como palabras y :%s &lpar;y el día que no sabía salir del editor&rpar;](https://sergiolearns.com/vi-en-linux/)
 - [vi en Linux — práctica con un ifcfg de verdad: activar la tarjeta, limpiar el archivo y mudarlo de red &lpar;sin tocar el ratón&rpar;](https://sergiolearns.com/vi-en-linux-practica/)
-- [vi en Linux — ejercicios con resolv.conf, líneas repetidas y una tarjeta clonada &lpar;y el NBOOT=yes que nadie había escrito&rpar;](https://sergiolearns.com/vi-en-linux-ejercicios/)
-- [Shell scripts en Linux — teoría con un corrector de prácticas de C, parámetros que llegan partidos y un if que no compara nada &lpar;y el script que siguió como si nada&rpar;](https://sergiolearns.com/shell-scripts-en-linux/)
-- [Shell scripts en Linux — práctica con un corrector que compila, prueba y pone nota a las entregas de C &lpar;y la práctica que «compilaba» sin compilar&rpar;](https://sergiolearns.com/shell-scripts-en-linux-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
