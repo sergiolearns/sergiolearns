@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Modelos OSI y TCP/IP — teoría con capas, sobres dentro de sobres y un switch que no sabe tu IP &lpar;y la práctica que subí a las 23:57&rpar;](https://sergiolearns.com/modelos-osi-y-tcp-ip/)
+- [Modelos OSI y TCP/IP — ejercicios tipo examen con capas, PDU, switch y router &lpar;y la «capa de red» que me costó medio punto&rpar;](https://sergiolearns.com/modelos-osi-y-tcp-ip-ejercicios/)
 - [Introducción a las redes — teoría con un dataset que cruza el océano, cinco aparatos que no hacen lo mismo y paquetes que eligen su camino &lpar;y por qué la fibra no te quita los 9 ms&rpar;](https://sergiolearns.com/introduccion-a-las-redes/)
 - [Introducción a las redes — ejercicios tipo examen con un cuestionario que se corrige solo, la trampa del switch y una latencia calculada a mano &lpar;y por qué no marcar «por si acaso»&rpar;](https://sergiolearns.com/introduccion-a-las-redes-ejercicios/)
 - [Configuración de red en Linux — teoría con ip, ifcfg y resolv.conf &lpar;y la IP que desapareció al reiniciar&rpar;](https://sergiolearns.com/configuracion-de-red-en-linux/)
-- [Configuración de red en Linux — práctica con una estación desde cero, otra mal configurada y un script que lee el ifcfg &lpar;y un ping que solo llegaba a medias&rpar;](https://sergiolearns.com/configuracion-de-red-en-linux-practica/)
-- [Configuración de red en Linux — ejercicios con la ficha de la estación, órdenes de ifconfig traducidas y un ifcfg generado &lpar;y el /32 que dejó sola a la tarjeta&rpar;](https://sergiolearns.com/configuracion-de-red-en-linux-ejercicios/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
