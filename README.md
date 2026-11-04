@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Qué es un sistema operativo — teoría con tu portátil en una tarde de estudio, una llamada a write&lpar;&rpar; y la CPU que nunca descansa &lpar;y los tres programas que no se ejecutaban a la vez&rpar;](https://sergiolearns.com/que-es-un-sistema-operativo/)
+- [Qué es un sistema operativo — ejercicios tipo examen con tu portátil, la multiprogramación medida en milisegundos y los tipos de sistemas &lpar;y la marca de más que me restó puntos&rpar;](https://sergiolearns.com/que-es-un-sistema-operativo-ejercicios/)
 - [Direccionamiento IP y subredes — teoría con máscaras, un AND bit a bit y un router que solo mira la red &lpar;y la máscara que me dejó hablando solo&rpar;](https://sergiolearns.com/direccionamiento-ip-y-subredes/)
 - [Direccionamiento IP y subredes — ejercicios tipo examen con máscaras, clases, fragmentos y ARP &lpar;y los puertos de DHCP que puse al revés&rpar;](https://sergiolearns.com/direccionamiento-ip-y-subredes-ejercicios/)
 - [LinkedList en Java — Node, first y next para la lista enlazada del examen &lpar;sin ArrayList y sin perder la cola&rpar;](https://sergiolearns.com/linkedlist-en-java/)
-- [LinkedList en Java práctica — la cola de reservas con first y last, los préstamos ordenados y la cola al revés &lpar;como en el Examen 3&rpar;](https://sergiolearns.com/linkedlist-en-java-practica/)
-- [LinkedList en Java ejercicios — la reserva de la posición N, los socios repetidos y la cola partida por la mitad &lpar;con soluciones y chuletario&rpar;](https://sergiolearns.com/linkedlist-en-java-ejercicios/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
