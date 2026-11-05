@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [El hardware que sostiene al sistema operativo — teoría con la práctica de IC2 en la impresora, una interrupción que lo para todo y una caché que acierta &lpar;y el bucle infinito que no colgó mi portátil&rpar;](https://sergiolearns.com/interrupciones-y-jerarquia-de-memoria/)
+- [El hardware que sostiene al sistema operativo — ejercicios tipo examen con la impresora, la caché que acierta y los registros base y límite &lpar;y la RSI que me costó medio punto&rpar;](https://sergiolearns.com/interrupciones-y-jerarquia-de-memoria-ejercicios/)
 - [Qué es un sistema operativo — teoría con tu portátil en una tarde de estudio, una llamada a write&lpar;&rpar; y la CPU que nunca descansa &lpar;y los tres programas que no se ejecutaban a la vez&rpar;](https://sergiolearns.com/que-es-un-sistema-operativo/)
 - [Qué es un sistema operativo — ejercicios tipo examen con tu portátil, la multiprogramación medida en milisegundos y los tipos de sistemas &lpar;y la marca de más que me restó puntos&rpar;](https://sergiolearns.com/que-es-un-sistema-operativo-ejercicios/)
 - [Direccionamiento IP y subredes — teoría con máscaras, un AND bit a bit y un router que solo mira la red &lpar;y la máscara que me dejó hablando solo&rpar;](https://sergiolearns.com/direccionamiento-ip-y-subredes/)
-- [Direccionamiento IP y subredes — ejercicios tipo examen con máscaras, clases, fragmentos y ARP &lpar;y los puertos de DHCP que puse al revés&rpar;](https://sergiolearns.com/direccionamiento-ip-y-subredes-ejercicios/)
-- [LinkedList en Java — Node, first y next para la lista enlazada del examen &lpar;sin ArrayList y sin perder la cola&rpar;](https://sergiolearns.com/linkedlist-en-java/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
