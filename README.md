@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Procesos e hilos — teoría con un gcc que nace, se bloquea y termina, un fork&lpar;&rpar; que se multiplica y spotify con tres hilos &lpar;y el bucle que llenó mi terminal de «Hola»&rpar;](https://sergiolearns.com/procesos-e-hilos/)
+- [Procesos e hilos — ejercicios tipo examen con estados que trazar, fork&lpar;&rpar; que contar e hilos que lo comparten casi todo &lpar;y el «Hola» que salió ocho veces&rpar;](https://sergiolearns.com/procesos-e-hilos-ejercicios/)
 - [El hardware que sostiene al sistema operativo — teoría con la práctica de IC2 en la impresora, una interrupción que lo para todo y una caché que acierta &lpar;y el bucle infinito que no colgó mi portátil&rpar;](https://sergiolearns.com/interrupciones-y-jerarquia-de-memoria/)
 - [El hardware que sostiene al sistema operativo — ejercicios tipo examen con la impresora, la caché que acierta y los registros base y límite &lpar;y la RSI que me costó medio punto&rpar;](https://sergiolearns.com/interrupciones-y-jerarquia-de-memoria-ejercicios/)
 - [Qué es un sistema operativo — teoría con tu portátil en una tarde de estudio, una llamada a write&lpar;&rpar; y la CPU que nunca descansa &lpar;y los tres programas que no se ejecutaban a la vez&rpar;](https://sergiolearns.com/que-es-un-sistema-operativo/)
-- [Qué es un sistema operativo — ejercicios tipo examen con tu portátil, la multiprogramación medida en milisegundos y los tipos de sistemas &lpar;y la marca de más que me restó puntos&rpar;](https://sergiolearns.com/que-es-un-sistema-operativo-ejercicios/)
-- [Direccionamiento IP y subredes — teoría con máscaras, un AND bit a bit y un router que solo mira la red &lpar;y la máscara que me dejó hablando solo&rpar;](https://sergiolearns.com/direccionamiento-ip-y-subredes/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
