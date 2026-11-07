@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Planificación de la CPU — teoría con FCFS, SJF, SRTF y Round Robin dibujados en diagramas de Gantt &lpar;y el parcial en que olvidé restar la llegada&rpar;](https://sergiolearns.com/planificacion-de-la-cpu/)
+- [Planificación de la CPU — ejercicios tipo examen con test, cinco diagramas de Gantt que se corrigen solos y preguntas de desarrollo &lpar;y la llegada que ya no se me olvida restar&rpar;](https://sergiolearns.com/planificacion-de-la-cpu-ejercicios/)
+- [Planificación de la CPU — práctica con problemas guiados paso a paso: FCFS frente a SJF, una expulsión en SRTF, la cola de Round Robin y un ejercicio con el formato del examen &lpar;y el cuanto que le regalé a quien no tocaba&rpar;](https://sergiolearns.com/planificacion-de-la-cpu-practica/)
 - [Procesos e hilos — teoría con un gcc que nace, se bloquea y termina, un fork&lpar;&rpar; que se multiplica y spotify con tres hilos &lpar;y el bucle que llenó mi terminal de «Hola»&rpar;](https://sergiolearns.com/procesos-e-hilos/)
 - [Procesos e hilos — ejercicios tipo examen con estados que trazar, fork&lpar;&rpar; que contar e hilos que lo comparten casi todo &lpar;y el «Hola» que salió ocho veces&rpar;](https://sergiolearns.com/procesos-e-hilos-ejercicios/)
-- [El hardware que sostiene al sistema operativo — teoría con la práctica de IC2 en la impresora, una interrupción que lo para todo y una caché que acierta &lpar;y el bucle infinito que no colgó mi portátil&rpar;](https://sergiolearns.com/interrupciones-y-jerarquia-de-memoria/)
-- [El hardware que sostiene al sistema operativo — ejercicios tipo examen con la impresora, la caché que acierta y los registros base y límite &lpar;y la RSI que me costó medio punto&rpar;](https://sergiolearns.com/interrupciones-y-jerarquia-de-memoria-ejercicios/)
-- [Qué es un sistema operativo — teoría con tu portátil en una tarde de estudio, una llamada a write&lpar;&rpar; y la CPU que nunca descansa &lpar;y los tres programas que no se ejecutaban a la vez&rpar;](https://sergiolearns.com/que-es-un-sistema-operativo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
