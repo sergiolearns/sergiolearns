@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Concurrencia y sincronización — teoría con un contador que pierde subidas, demasiada leche en la nevera y el búfer de spotify &lpar;y los 30 euros que se comió una hoja compartida&rpar;](https://sergiolearns.com/concurrencia-y-sincronizacion/)
+- [Concurrencia y sincronización — ejercicios tipo examen con condiciones de carrera, semáforos paso a paso y la leche de siempre &lpar;y un Peterson que no te deja entrar&rpar;](https://sergiolearns.com/concurrencia-y-sincronizacion-ejercicios/)
+- [Concurrencia y sincronización — práctica con problemas guiados paso a paso: una condición de carrera, un semáforo con su cola, el búfer finito y un ejercicio con el formato del examen &lpar;y la venta que juré que no se podía perder&rpar;](https://sergiolearns.com/concurrencia-y-sincronizacion-practica/)
 - [Planificación de la CPU — teoría con FCFS, SJF, SRTF y Round Robin dibujados en diagramas de Gantt &lpar;y el parcial en que olvidé restar la llegada&rpar;](https://sergiolearns.com/planificacion-de-la-cpu/)
 - [Planificación de la CPU — ejercicios tipo examen con test, cinco diagramas de Gantt que se corrigen solos y preguntas de desarrollo &lpar;y la llegada que ya no se me olvida restar&rpar;](https://sergiolearns.com/planificacion-de-la-cpu-ejercicios/)
-- [Planificación de la CPU — práctica con problemas guiados paso a paso: FCFS frente a SJF, una expulsión en SRTF, la cola de Round Robin y un ejercicio con el formato del examen &lpar;y el cuanto que le regalé a quien no tocaba&rpar;](https://sergiolearns.com/planificacion-de-la-cpu-practica/)
-- [Procesos e hilos — teoría con un gcc que nace, se bloquea y termina, un fork&lpar;&rpar; que se multiplica y spotify con tres hilos &lpar;y el bucle que llenó mi terminal de «Hola»&rpar;](https://sergiolearns.com/procesos-e-hilos/)
-- [Procesos e hilos — ejercicios tipo examen con estados que trazar, fork&lpar;&rpar; que contar e hilos que lo comparten casi todo &lpar;y el «Hola» que salió ocho veces&rpar;](https://sergiolearns.com/procesos-e-hilos-ejercicios/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
