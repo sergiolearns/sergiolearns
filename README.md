@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Gestión de memoria — teoría con tu portátil repartiendo la RAM entre gcc, spotify, el campus y onedrive &lpar;y los 4 KiB que yo creía que eran 4000 bytes&rpar;](https://sergiolearns.com/gestion-de-memoria/)
+- [Gestión de memoria — ejercicios tipo examen con direcciones que traducir, una TLB que acierta y huecos que no alcanzan &lpar;y el medio nanosegundo que perdí por no sumar la TLB&rpar;](https://sergiolearns.com/gestion-de-memoria-ejercicios/)
+- [Gestión de memoria — práctica con problemas guiados paso a paso: traducir con paginación, segmentación con límites, la TLB y un ejercicio con el formato del examen &lpar;y la dirección física que di para un segmento que no existía&rpar;](https://sergiolearns.com/gestion-de-memoria-practica/)
 - [Concurrencia y sincronización — teoría con un contador que pierde subidas, demasiada leche en la nevera y el búfer de spotify &lpar;y los 30 euros que se comió una hoja compartida&rpar;](https://sergiolearns.com/concurrencia-y-sincronizacion/)
 - [Concurrencia y sincronización — ejercicios tipo examen con condiciones de carrera, semáforos paso a paso y la leche de siempre &lpar;y un Peterson que no te deja entrar&rpar;](https://sergiolearns.com/concurrencia-y-sincronizacion-ejercicios/)
-- [Concurrencia y sincronización — práctica con problemas guiados paso a paso: una condición de carrera, un semáforo con su cola, el búfer finito y un ejercicio con el formato del examen &lpar;y la venta que juré que no se podía perder&rpar;](https://sergiolearns.com/concurrencia-y-sincronizacion-practica/)
-- [Planificación de la CPU — teoría con FCFS, SJF, SRTF y Round Robin dibujados en diagramas de Gantt &lpar;y el parcial en que olvidé restar la llegada&rpar;](https://sergiolearns.com/planificacion-de-la-cpu/)
-- [Planificación de la CPU — ejercicios tipo examen con test, cinco diagramas de Gantt que se corrigen solos y preguntas de desarrollo &lpar;y la llegada que ya no se me olvida restar&rpar;](https://sergiolearns.com/planificacion-de-la-cpu-ejercicios/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
