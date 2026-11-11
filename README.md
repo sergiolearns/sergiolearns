@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Sistemas de archivos — práctica con problemas guiados paso a paso: bloques y fragmentación interna, lecturas según la asignación, el i-nodo y un ejercicio con el formato del examen &lpar;y el bloque que conté desde 1&rpar;](https://sergiolearns.com/sistemas-de-archivos-practica/)
+- [Sistemas de archivos — teoría con la carpeta de tu práctica de IC2, FAT, i-nodos y enlaces &lpar;y el pendrive que no quiso el vídeo de la defensa&rpar;](https://sergiolearns.com/sistemas-de-archivos/)
+- [Sistemas de archivos — ejercicios tipo examen con bloques, FAT, i-nodos y enlaces &lpar;y el atajo que apuntaba a la nada&rpar;](https://sergiolearns.com/sistemas-de-archivos-ejercicios/)
 - [Memoria virtual y reemplazo de páginas — teoría con gcc en tres marcos, FIFO, LRU y el óptimo cara a cara &lpar;y el portátil que se arrastraba con 40 pestañas&rpar;](https://sergiolearns.com/memoria-virtual/)
 - [Memoria virtual — ejercicios tipo examen con fallos de página, trazas de FIFO, LRU y óptimo y conjuntos de trabajo &lpar;y los tres fallos que no conté en el simulacro&rpar;](https://sergiolearns.com/memoria-virtual-ejercicios/)
-- [Memoria virtual — práctica con problemas guiados paso a paso: FIFO con su cola, LRU frente al óptimo, lo que cuesta un fallo y un ejercicio con el formato del examen &lpar;y la víctima de LRU que elegí mirando el futuro&rpar;](https://sergiolearns.com/memoria-virtual-practica/)
-- [Gestión de memoria — teoría con tu portátil repartiendo la RAM entre gcc, spotify, el campus y onedrive &lpar;y los 4 KiB que yo creía que eran 4000 bytes&rpar;](https://sergiolearns.com/gestion-de-memoria/)
-- [Gestión de memoria — ejercicios tipo examen con direcciones que traducir, una TLB que acierta y huecos que no alcanzan &lpar;y el medio nanosegundo que perdí por no sumar la TLB&rpar;](https://sergiolearns.com/gestion-de-memoria-ejercicios/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
