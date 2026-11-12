@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Simulacro del examen de teoría de IC2 — primer parcial, segundo parcial o convocatoria, con tu nota real y el repaso de cada fallo &lpar;como si estuvieras en el aula&rpar;](https://sergiolearns.com/simulacro-examen-ic2-teoria/)
 - [Sistemas de archivos — práctica con problemas guiados paso a paso: bloques y fragmentación interna, lecturas según la asignación, el i-nodo y un ejercicio con el formato del examen &lpar;y el bloque que conté desde 1&rpar;](https://sergiolearns.com/sistemas-de-archivos-practica/)
 - [Sistemas de archivos — teoría con la carpeta de tu práctica de IC2, FAT, i-nodos y enlaces &lpar;y el pendrive que no quiso el vídeo de la defensa&rpar;](https://sergiolearns.com/sistemas-de-archivos/)
 - [Sistemas de archivos — ejercicios tipo examen con bloques, FAT, i-nodos y enlaces &lpar;y el atajo que apuntaba a la nada&rpar;](https://sergiolearns.com/sistemas-de-archivos-ejercicios/)
 - [Memoria virtual y reemplazo de páginas — teoría con gcc en tres marcos, FIFO, LRU y el óptimo cara a cara &lpar;y el portátil que se arrastraba con 40 pestañas&rpar;](https://sergiolearns.com/memoria-virtual/)
-- [Memoria virtual — ejercicios tipo examen con fallos de página, trazas de FIFO, LRU y óptimo y conjuntos de trabajo &lpar;y los tres fallos que no conté en el simulacro&rpar;](https://sergiolearns.com/memoria-virtual-ejercicios/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
