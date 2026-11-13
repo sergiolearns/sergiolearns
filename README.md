@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [Simulacro del examen de teoría de IC2 — primer parcial, segundo parcial o convocatoria, con tu nota real y el repaso de cada fallo &lpar;como si estuvieras en el aula&rpar;](https://sergiolearns.com/simulacro-examen-ic2-teoria/)
-- [Sistemas de archivos — práctica con problemas guiados paso a paso: bloques y fragmentación interna, lecturas según la asignación, el i-nodo y un ejercicio con el formato del examen &lpar;y el bloque que conté desde 1&rpar;](https://sergiolearns.com/sistemas-de-archivos-practica/)
-- [Sistemas de archivos — teoría con la carpeta de tu práctica de IC2, FAT, i-nodos y enlaces &lpar;y el pendrive que no quiso el vídeo de la defensa&rpar;](https://sergiolearns.com/sistemas-de-archivos/)
-- [Sistemas de archivos — ejercicios tipo examen con bloques, FAT, i-nodos y enlaces &lpar;y el atajo que apuntaba a la nada&rpar;](https://sergiolearns.com/sistemas-de-archivos-ejercicios/)
-- [Memoria virtual y reemplazo de páginas — teoría con gcc en tres marcos, FIFO, LRU y el óptimo cara a cara &lpar;y el portátil que se arrastraba con 40 pestañas&rpar;](https://sergiolearns.com/memoria-virtual/)
+- [Simulacro del examen práctico de IC2 — diagrama de flujo, fork e hilos en C &lpar;y las capturas que no pueden faltar&rpar;](https://sergiolearns.com/simulacro-examen-ic2-practica/)
+- [Diagramas de flujo en C — teoría con rombos, bucles sin «for» y los pasos de una semana &lpar;y dónde va el dichoso i = i + 1&rpar;](https://sergiolearns.com/diagramas-de-flujo-en-c/)
+- [Diagramas de flujo en C — práctica con la racha de la pulsera, un número capicúa y la media de la semana &lpar;diagrama primero, código después&rpar;](https://sergiolearns.com/diagramas-de-flujo-en-c-practica/)
+- [Diagramas de flujo en C — ejercicios con contadores, contraseñas y dos semanas de pasos &lpar;y un programa que se quedó colgado&rpar;](https://sergiolearns.com/diagramas-de-flujo-en-c-ejercicios/)
+- [Hilos en C con pthread — teoría con retrasos de guagua, un join que se me olvidó y un contador que pierde sumas &lpar;sin dramas&rpar;](https://sergiolearns.com/hilos-en-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
