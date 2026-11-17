@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Instalar MATLAB gratis con la ULPGC — la licencia de estudiante, la Symbolic Math Toolbox y tu primer script](https://sergiolearns.com/instalar-matlab-ulpgc/)
+- [MATLAB desde cero — la ventana de comandos, vectores y matrices &lpar;y el punto que lo cambia todo&rpar;](https://sergiolearns.com/matlab-desde-cero-vectores-y-matrices/)
+- [Simulacro de los cuestionarios de FP1 — de Fundamentos a Tratamiento de textos, con el reloj en marcha y tu nota real &lpar;como en el laboratorio&rpar;](https://sergiolearns.com/simulacro-examen-fp1-teoria/)
 - [Informática básica — ejercicios con un pendrive, rutas de carpetas y bytes con tildes &lpar;y el notas.txt que «no existía» en el aula&rpar;](https://sergiolearns.com/informatica-basica-ejercicios/)
 - [Simulacro práctico de FP2 — programa en Python y Java aquí mismo, con nota y comentarios como en el VPL](https://sergiolearns.com/simulacro-examen-fp2-practica/)
-- [Simulacro de los cuestionarios de FP2 — Python, Java o la extraordinaria, con el reloj en marcha y tu nota real &lpar;como en el laboratorio&rpar;](https://sergiolearns.com/simulacro-examen-fp2-teoria/)
-- [Simulacro del examen práctico de IC2 — diagrama de flujo, fork e hilos en C &lpar;y las capturas que no pueden faltar&rpar;](https://sergiolearns.com/simulacro-examen-ic2-practica/)
-- [Diagramas de flujo en C — teoría con rombos, bucles sin «for» y los pasos de una semana &lpar;y dónde va el dichoso i = i + 1&rpar;](https://sergiolearns.com/diagramas-de-flujo-en-c/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
