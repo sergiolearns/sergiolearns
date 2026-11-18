@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [MATLAB desde cero &lpar;2&rpar; — scripts, sistemas de ecuaciones y syms &lpar;lo que piden los trabajos de AG&rpar;](https://sergiolearns.com/matlab-desde-cero-scripts-sistemas-y-syms/)
+- [Simulacro práctico de FP1 — los exámenes de continuidad en Python, con nota al momento &lpar;y la regla del 8 incluida&rpar;](https://sergiolearns.com/simulacro-examen-fp1-practica/)
 - [Instalar MATLAB gratis con la ULPGC — la licencia de estudiante, la Symbolic Math Toolbox y tu primer script](https://sergiolearns.com/instalar-matlab-ulpgc/)
 - [MATLAB desde cero — la ventana de comandos, vectores y matrices &lpar;y el punto que lo cambia todo&rpar;](https://sergiolearns.com/matlab-desde-cero-vectores-y-matrices/)
 - [Simulacro de los cuestionarios de FP1 — de Fundamentos a Tratamiento de textos, con el reloj en marcha y tu nota real &lpar;como en el laboratorio&rpar;](https://sergiolearns.com/simulacro-examen-fp1-teoria/)
-- [Informática básica — ejercicios con un pendrive, rutas de carpetas y bytes con tildes &lpar;y el notas.txt que «no existía» en el aula&rpar;](https://sergiolearns.com/informatica-basica-ejercicios/)
-- [Simulacro práctico de FP2 — programa en Python y Java aquí mismo, con nota y comentarios como en el VPL](https://sergiolearns.com/simulacro-examen-fp2-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
