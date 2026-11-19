@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [MATLAB desde cero &lpar;2&rpar; — scripts, sistemas de ecuaciones y syms &lpar;lo que piden los trabajos de AG&rpar;](https://sergiolearns.com/matlab-desde-cero-scripts-sistemas-y-syms/)
-- [Simulacro práctico de FP1 — los exámenes de continuidad en Python, con nota al momento &lpar;y la regla del 8 incluida&rpar;](https://sergiolearns.com/simulacro-examen-fp1-practica/)
-- [Instalar MATLAB gratis con la ULPGC — la licencia de estudiante, la Symbolic Math Toolbox y tu primer script](https://sergiolearns.com/instalar-matlab-ulpgc/)
-- [MATLAB desde cero — la ventana de comandos, vectores y matrices &lpar;y el punto que lo cambia todo&rpar;](https://sergiolearns.com/matlab-desde-cero-vectores-y-matrices/)
-- [Simulacro de los cuestionarios de FP1 — de Fundamentos a Tratamiento de textos, con el reloj en marcha y tu nota real &lpar;como en el laboratorio&rpar;](https://sergiolearns.com/simulacro-examen-fp1-teoria/)
+- [Matrices y determinantes — teoría con mensajes cifrados, el rango, la inversa y el número que decide si se puede descifrar &lpar;y la clave que no servía&rpar;](https://sergiolearns.com/matrices-y-determinantes/)
+- [Matrices y determinantes — práctica guiada con cinco problemas a mano, cada uno comprobado en MATLAB &lpar;y la inversa que no daba la identidad&rpar;](https://sergiolearns.com/matrices-y-determinantes-practica/)
+- [Matrices y determinantes — ejercicios tipo examen con el cifrado, un parámetro, el determinante de la diagonalización y un test de 20 &lpar;y la fila que multipliqué por 2&rpar;](https://sergiolearns.com/matrices-y-determinantes-ejercicios/)
+- [Instalar QtSpim — Windows, Linux y Mac, los ajustes del laboratorio y tu primer programa MIPS en 10 minutos &lpar;y el día que QtSpim no veía mi archivo&rpar;](https://sergiolearns.com/instalar-qtspim/)
+- [Cómo usar QtSpim — registros, segmentos de texto y datos, paso a paso y puntos de ruptura con un programa real &lpar;y el bucle que no terminaba nunca&rpar;](https://sergiolearns.com/como-usar-qtspim/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
