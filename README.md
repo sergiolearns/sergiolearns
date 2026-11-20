@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [Matrices y determinantes — teoría con mensajes cifrados, el rango, la inversa y el número que decide si se puede descifrar &lpar;y la clave que no servía&rpar;](https://sergiolearns.com/matrices-y-determinantes/)
-- [Matrices y determinantes — práctica guiada con cinco problemas a mano, cada uno comprobado en MATLAB &lpar;y la inversa que no daba la identidad&rpar;](https://sergiolearns.com/matrices-y-determinantes-practica/)
-- [Matrices y determinantes — ejercicios tipo examen con el cifrado, un parámetro, el determinante de la diagonalización y un test de 20 &lpar;y la fila que multipliqué por 2&rpar;](https://sergiolearns.com/matrices-y-determinantes-ejercicios/)
-- [Instalar QtSpim — Windows, Linux y Mac, los ajustes del laboratorio y tu primer programa MIPS en 10 minutos &lpar;y el día que QtSpim no veía mi archivo&rpar;](https://sergiolearns.com/instalar-qtspim/)
-- [Cómo usar QtSpim — registros, segmentos de texto y datos, paso a paso y puntos de ruptura con un programa real &lpar;y el bucle que no terminaba nunca&rpar;](https://sergiolearns.com/como-usar-qtspim/)
+- [Sistemas de ecuaciones lineales — teoría con el batido de después del gimnasio, Gauss, Gauss-Jordan y Rouché-Frobenius &lpar;y el batido que no podía existir&rpar;](https://sergiolearns.com/sistemas-de-ecuaciones-lineales/)
+- [Sistemas de ecuaciones lineales — práctica guiada con cinco problemas del batido, Rouché sin resolver y un parámetro de examen &lpar;y la ecuación que se me olvidó copiar&rpar;](https://sergiolearns.com/sistemas-de-ecuaciones-lineales-practica/)
+- [Sistemas de ecuaciones lineales — ejercicios tipo examen con el batido, un parámetro que lo cambia todo, las ecuaciones de un subespacio y un test de 20 &lpar;y la fila de ceros que me asustó&rpar;](https://sergiolearns.com/sistemas-de-ecuaciones-lineales-ejercicios/)
+- [Estructura de un programa y datos en MIPS — teoría con el inventario de un videojuego, directivas, little endian y la frente a lw &lpar;y los puntos que salían en 268500996&rpar;](https://sergiolearns.com/estructura-y-datos-en-mips/)
+- [Estructura de un programa y datos en MIPS — práctica con el mapa del inventario, un cartel de game over y la misma memoria leída de dos formas &lpar;y el cartel que imprimí con cuatro syscalls&rpar;](https://sergiolearns.com/estructura-y-datos-en-mips-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
