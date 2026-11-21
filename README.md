@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [Sistemas de ecuaciones lineales — teoría con el batido de después del gimnasio, Gauss, Gauss-Jordan y Rouché-Frobenius &lpar;y el batido que no podía existir&rpar;](https://sergiolearns.com/sistemas-de-ecuaciones-lineales/)
-- [Sistemas de ecuaciones lineales — práctica guiada con cinco problemas del batido, Rouché sin resolver y un parámetro de examen &lpar;y la ecuación que se me olvidó copiar&rpar;](https://sergiolearns.com/sistemas-de-ecuaciones-lineales-practica/)
-- [Sistemas de ecuaciones lineales — ejercicios tipo examen con el batido, un parámetro que lo cambia todo, las ecuaciones de un subespacio y un test de 20 &lpar;y la fila de ceros que me asustó&rpar;](https://sergiolearns.com/sistemas-de-ecuaciones-lineales-ejercicios/)
-- [Estructura de un programa y datos en MIPS — teoría con el inventario de un videojuego, directivas, little endian y la frente a lw &lpar;y los puntos que salían en 268500996&rpar;](https://sergiolearns.com/estructura-y-datos-en-mips/)
-- [Estructura de un programa y datos en MIPS — práctica con el mapa del inventario, un cartel de game over y la misma memoria leída de dos formas &lpar;y el cartel que imprimí con cuatro syscalls&rpar;](https://sergiolearns.com/estructura-y-datos-en-mips-practica/)
+- [Espacios y subespacios vectoriales — teoría con los colores de la pantalla: combinación lineal, base, dimensión y subespacios &lpar;y el gris que siempre puedes quitar&rpar;](https://sergiolearns.com/espacios-vectoriales/)
+- [Espacios vectoriales — práctica guiada con colores: independencia, cambio de base, vectores originales y el ejercicio de subespacios del examen &lpar;y la base que no salía de rref&rpar;](https://sergiolearns.com/espacios-vectoriales-practica/)
+- [Espacios vectoriales — ejercicios tipo examen con colores y subespacios de R⁴: bases, implícitas, Grassmann y un test como el del Campus &lpar;y el parámetro que fallé&rpar;](https://sergiolearns.com/espacios-vectoriales-ejercicios/)
+- [Carga, aritmética y lógica en MIPS — teoría con la ficha de un héroe, lb frente a lbu, hi y lo y máscaras de bits &lpar;y el veneno que me curaba&rpar;](https://sergiolearns.com/carga-aritmetica-y-logica-en-mips/)
+- [Carga, aritmética y lógica en MIPS — práctica con QtSpim: subir de nivel, un botín de 64 bits y tres datos en una palabra &lpar;y el logro que me borró la moral&rpar;](https://sergiolearns.com/carga-aritmetica-y-logica-en-mips-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
