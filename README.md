@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [Espacio euclídeo — teoría con gustos musicales: producto escalar, matriz de Gram, ángulos, Gram-Schmidt y producto vectorial &lpar;y el ± que me sobraba&rpar;](https://sergiolearns.com/espacio-euclideo/)
-- [Espacio euclídeo — práctica guiada con gustos musicales: matriz de Gram, ángulos, bases ortonormales, Gram-Schmidt y el coseno del examen &lpar;y los decimales que se me escaparon&rpar;](https://sergiolearns.com/espacio-euclideo-practica/)
-- [Espacio euclídeo — ejercicios tipo examen con gustos musicales: módulos, cosenos, matriz de Gram, Gram-Schmidt y un test como el del Campus &lpar;y la forma que marqué de más&rpar;](https://sergiolearns.com/espacio-euclideo-ejercicios/)
-- [Saltos, condicionales y bucles en MIPS — teoría con una oleada de enemigos, condiciones «y» y «o» y la plantilla del bucle &lpar;y el contador que contaba al revés&rpar;](https://sergiolearns.com/saltos-condicionales-y-bucles-en-mips/)
-- [Saltos, condicionales y bucles en MIPS — práctica con QtSpim: el informe de la oleada, tres hechizos con «y» y «o» y un combate que para a tiempo &lpar;y el héroe que acabó con energía negativa&rpar;](https://sergiolearns.com/saltos-condicionales-y-bucles-en-mips-practica/)
+- [Transformaciones lineales y diagonalización — teoría con los filtros de una foto, el núcleo que se traga los colores y las direcciones que no giran &lpar;y el brillo que no era lineal&rpar;](https://sergiolearns.com/transformaciones-lineales-y-diagonalizacion/)
+- [Transformaciones lineales y diagonalización — práctica guiada con filtros de color, capas que se pierden y una matriz con parámetro como en el examen &lpar;y la base que no arreglaba nada&rpar;](https://sergiolearns.com/transformaciones-lineales-y-diagonalizacion-practica/)
+- [Transformaciones lineales y diagonalización — ejercicios tipo examen con un filtro que borra los grises, potencias con dos autovalores y un parámetro que decide todo &lpar;y la P que no iba con su D&rpar;](https://sergiolearns.com/transformaciones-lineales-y-diagonalizacion-ejercicios/)
+- [Vectores y cadenas en MIPS — teoría con una tabla de récords, el índice que hay que multiplicar y cadenas que acaban en ‘\0’ &lpar;y el récord que se llamaba AM&rpar;](https://sergiolearns.com/vectores-y-cadenas-en-mips/)
+- [Vectores y cadenas en MIPS — práctica con QtSpim: la tabla de récords, un letrero que se enciende en mayúsculas y un espejo para los mensajes &lpar;y el letrero que se apagó en el primer espacio&rpar;](https://sergiolearns.com/vectores-y-cadenas-en-mips-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
