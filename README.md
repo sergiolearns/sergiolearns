@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformaciones lineales y diagonalización — teoría con los filtros de una foto, el núcleo que se traga los colores y las direcciones que no giran &lpar;y el brillo que no era lineal&rpar;](https://sergiolearns.com/transformaciones-lineales-y-diagonalizacion/)
-- [Transformaciones lineales y diagonalización — práctica guiada con filtros de color, capas que se pierden y una matriz con parámetro como en el examen &lpar;y la base que no arreglaba nada&rpar;](https://sergiolearns.com/transformaciones-lineales-y-diagonalizacion-practica/)
-- [Transformaciones lineales y diagonalización — ejercicios tipo examen con un filtro que borra los grises, potencias con dos autovalores y un parámetro que decide todo &lpar;y la P que no iba con su D&rpar;](https://sergiolearns.com/transformaciones-lineales-y-diagonalizacion-ejercicios/)
-- [Vectores y cadenas en MIPS — teoría con una tabla de récords, el índice que hay que multiplicar y cadenas que acaban en ‘\0’ &lpar;y el récord que se llamaba AM&rpar;](https://sergiolearns.com/vectores-y-cadenas-en-mips/)
-- [Vectores y cadenas en MIPS — práctica con QtSpim: la tabla de récords, un letrero que se enciende en mayúsculas y un espejo para los mensajes &lpar;y el letrero que se apagó en el primer espacio&rpar;](https://sergiolearns.com/vectores-y-cadenas-en-mips-practica/)
+- [Formas bilineales y cuadráticas — teoría con las rampas de un skatepark, el cuenco, el canal y la silla de montar &lpar;y el término cruzado que no partí por la mitad&rpar;](https://sergiolearns.com/formas-bilineales-y-cuadraticas/)
+- [Formas bilineales y cuadráticas — práctica guiada con rampas que parecen cuencos, conjugados que no son perpendiculares y un producto escalar con su coseno &lpar;y la diagonal que salía con fracciones&rpar;](https://sergiolearns.com/formas-bilineales-y-cuadraticas-practica/)
+- [Formas bilineales y cuadráticas — ejercicios tipo examen con una rampa que engaña, un parámetro que Sylvester no resuelve y un producto escalar que no lo es &lpar;y la base leída por columnas&rpar;](https://sergiolearns.com/formas-bilineales-y-cuadraticas-ejercicios/)
+- [Llamadas al sistema en MIPS — práctica con QtSpim: la ficha del personaje, un menú de clases que no se deja engañar y 20 puntos que repartir &lpar;y el saludo que se partió en dos líneas&rpar;](https://sergiolearns.com/llamadas-al-sistema-en-mips-practica/)
+- [Llamadas al sistema en MIPS — ejercicios con una tienda de pociones, un código de amigo con su dígito de control y el registro de un gremio &lpar;y el menú que con un 7 sacaba al jefe final&rpar;](https://sergiolearns.com/llamadas-al-sistema-en-mips-ejercicios/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
