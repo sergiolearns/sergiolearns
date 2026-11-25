@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [Formas bilineales y cuadráticas — teoría con las rampas de un skatepark, el cuenco, el canal y la silla de montar &lpar;y el término cruzado que no partí por la mitad&rpar;](https://sergiolearns.com/formas-bilineales-y-cuadraticas/)
-- [Formas bilineales y cuadráticas — práctica guiada con rampas que parecen cuencos, conjugados que no son perpendiculares y un producto escalar con su coseno &lpar;y la diagonal que salía con fracciones&rpar;](https://sergiolearns.com/formas-bilineales-y-cuadraticas-practica/)
-- [Formas bilineales y cuadráticas — ejercicios tipo examen con una rampa que engaña, un parámetro que Sylvester no resuelve y un producto escalar que no lo es &lpar;y la base leída por columnas&rpar;](https://sergiolearns.com/formas-bilineales-y-cuadraticas-ejercicios/)
-- [Llamadas al sistema en MIPS — práctica con QtSpim: la ficha del personaje, un menú de clases que no se deja engañar y 20 puntos que repartir &lpar;y el saludo que se partió en dos líneas&rpar;](https://sergiolearns.com/llamadas-al-sistema-en-mips-practica/)
-- [Llamadas al sistema en MIPS — ejercicios con una tienda de pociones, un código de amigo con su dígito de control y el registro de un gremio &lpar;y el menú que con un 7 sacaba al jefe final&rpar;](https://sergiolearns.com/llamadas-al-sistema-en-mips-ejercicios/)
+- [Números complejos — teoría con la noria de la feria, forma binómica y polar, De Moivre y raíces &lpar;y la cabina que giraba sola&rpar;](https://sergiolearns.com/numeros-complejos/)
+- [Números complejos — práctica guiada con el plano de la feria, los cuatro cuadrantes, De Moivre y raíces paso a paso &lpar;y el ángulo que se me escapó de cuadrante&rpar;](https://sergiolearns.com/numeros-complejos-practica/)
+- [Números complejos — ejercicios tipo examen con la noria, un polinomio con raíz compleja, un triángulo que se vuelve hexágono y un test de 20 preguntas &lpar;y el opuesto que marqué como conjugado&rpar;](https://sergiolearns.com/numeros-complejos-ejercicios/)
+- [Subrutinas en MIPS — teoría con un combate por turnos, jal y jr $ra, la pila con $sp y un combo que se llama a sí mismo &lpar;y el arma que me pedía una y otra vez&rpar;](https://sergiolearns.com/subrutinas-en-mips/)
+- [Subrutinas en MIPS — práctica con QtSpim: el cartel del combate, el orden de turnos y un hechizo recursivo &lpar;y el hechizo de nivel 4 que hacía 0 de daño&rpar;](https://sergiolearns.com/subrutinas-en-mips-practica/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
