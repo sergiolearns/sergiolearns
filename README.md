@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [Números complejos — teoría con la noria de la feria, forma binómica y polar, De Moivre y raíces &lpar;y la cabina que giraba sola&rpar;](https://sergiolearns.com/numeros-complejos/)
-- [Números complejos — práctica guiada con el plano de la feria, los cuatro cuadrantes, De Moivre y raíces paso a paso &lpar;y el ángulo que se me escapó de cuadrante&rpar;](https://sergiolearns.com/numeros-complejos-practica/)
-- [Números complejos — ejercicios tipo examen con la noria, un polinomio con raíz compleja, un triángulo que se vuelve hexágono y un test de 20 preguntas &lpar;y el opuesto que marqué como conjugado&rpar;](https://sergiolearns.com/numeros-complejos-ejercicios/)
-- [Subrutinas en MIPS — teoría con un combate por turnos, jal y jr $ra, la pila con $sp y un combo que se llama a sí mismo &lpar;y el arma que me pedía una y otra vez&rpar;](https://sergiolearns.com/subrutinas-en-mips/)
-- [Subrutinas en MIPS — práctica con QtSpim: el cartel del combate, el orden de turnos y un hechizo recursivo &lpar;y el hechizo de nivel 4 que hacía 0 de daño&rpar;](https://sergiolearns.com/subrutinas-en-mips-practica/)
+- [Espacio afín — ejercicios tipo examen con rectas que se cruzan, el plano por tres puntos, un simétrico, una cónica y un test de 20 preguntas &lpar;y el ángulo que me salió de 66° en lugar de 24°&rpar;](https://sergiolearns.com/espacio-afin-ejercicios/)
+- [Espacio afín — teoría con el dron que graba un partido, rectas, planos, distancias, giros y cónicas &lpar;y los dos drones que casi se rozan&rpar;](https://sergiolearns.com/espacio-afin/)
+- [Espacio afín — práctica guiada con la cámara araña, el balón que sube, el videomarcador y un ejercicio de examen paso a paso &lpar;y el plano que me salió perpendicular en lugar de paralelo&rpar;](https://sergiolearns.com/espacio-afin-practica/)
+- [Simulacro práctico de IC1 — MIPS en QtSpim con otros datos, subrutinas y teclado &lpar;y por qué el apartado 1 lo decide casi todo&rpar;](https://sergiolearns.com/simulacro-examen-ic1-practica/)
+- [La historia de SergioLearns — de una noche instalando Python a una web con simulacros, un bot y un cuarto en 3D &lpar;y dos rechazos de AdSense por el camino&rpar;](https://sergiolearns.com/historia-de-sergiolearns/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
