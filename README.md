@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducción a los computadores — teoría con una foto de la pizarra, la arquitectura de Von Neumann, el ciclo de instrucción y un hola mundo que baja 7 pisos &lpar;y los «cero» computadores que llevaba encima&rpar;](https://sergiolearns.com/introduccion-a-los-computadores/)
+- [Introducción a los computadores — práctica con problemas guiados paso a paso: la traza del ciclo de instrucción, el reloj y una cuestión con el formato del examen &lpar;y el contador que acabó con 226 fotos&rpar;](https://sergiolearns.com/introduccion-a-los-computadores-practica/)
+- [Introducción a los computadores — ejercicios resueltos con cronogramas, una traza con salto, una fila de la foto en 2 bits y un cuestionario para practicar &lpar;y los 2,5 GHz que convertí en 2,5 ns&rpar;](https://sergiolearns.com/introduccion-a-los-computadores-ejercicios/)
+- [Qué necesitas para empezar GCID — lo que de verdad importa &lpar;y lo que no&rpar; antes del primer día](https://sergiolearns.com/que-necesitas-para-empezar-gcid/)
 - [Espacio afín — ejercicios tipo examen con rectas que se cruzan, el plano por tres puntos, un simétrico, una cónica y un test de 20 preguntas &lpar;y el ángulo que me salió de 66° en lugar de 24°&rpar;](https://sergiolearns.com/espacio-afin-ejercicios/)
-- [Espacio afín — teoría con el dron que graba un partido, rectas, planos, distancias, giros y cónicas &lpar;y los dos drones que casi se rozan&rpar;](https://sergiolearns.com/espacio-afin/)
-- [Espacio afín — práctica guiada con la cámara araña, el balón que sube, el videomarcador y un ejercicio de examen paso a paso &lpar;y el plano que me salió perpendicular en lugar de paralelo&rpar;](https://sergiolearns.com/espacio-afin-practica/)
-- [Simulacro práctico de IC1 — MIPS en QtSpim con otros datos, subrutinas y teclado &lpar;y por qué el apartado 1 lo decide casi todo&rpar;](https://sergiolearns.com/simulacro-examen-ic1-practica/)
-- [La historia de SergioLearns — de una noche instalando Python a una web con simulacros, un bot y un cuarto en 3D &lpar;y dos rechazos de AdSense por el camino&rpar;](https://sergiolearns.com/historia-de-sergiolearns/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
