@@ -17,11 +17,11 @@ Datos y estadística (2º)    → lo siguiente
 ### Lo último en la web
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducción a los computadores — teoría con una foto de la pizarra, la arquitectura de Von Neumann, el ciclo de instrucción y un hola mundo que baja 7 pisos &lpar;y los «cero» computadores que llevaba encima&rpar;](https://sergiolearns.com/introduccion-a-los-computadores/)
-- [Introducción a los computadores — práctica con problemas guiados paso a paso: la traza del ciclo de instrucción, el reloj y una cuestión con el formato del examen &lpar;y el contador que acabó con 226 fotos&rpar;](https://sergiolearns.com/introduccion-a-los-computadores-practica/)
-- [Introducción a los computadores — ejercicios resueltos con cronogramas, una traza con salto, una fila de la foto en 2 bits y un cuestionario para practicar &lpar;y los 2,5 GHz que convertí en 2,5 ns&rpar;](https://sergiolearns.com/introduccion-a-los-computadores-ejercicios/)
-- [Qué necesitas para empezar GCID — lo que de verdad importa &lpar;y lo que no&rpar; antes del primer día](https://sergiolearns.com/que-necesitas-para-empezar-gcid/)
-- [Espacio afín — ejercicios tipo examen con rectas que se cruzan, el plano por tres puntos, un simétrico, una cónica y un test de 20 preguntas &lpar;y el ángulo que me salió de 66° en lugar de 24°&rpar;](https://sergiolearns.com/espacio-afin-ejercicios/)
+- [Simulacro del examen de teoría de AG — el test de 20 preguntas con las reglas del Campus, sin negativos &lpar;y la trampa de las de varias correctas&rpar;](https://sergiolearns.com/simulacro-examen-ag-teoria/)
+- [Simulacro del examen práctico de AG — los ejercicios en papel de la ordinaria y la extraordinaria, con la solución paso a paso &lpar;y el apartado que vale 0 sin desarrollo&rpar;](https://sergiolearns.com/simulacro-examen-ag-practica/)
+- [Sistemas de numeración — teoría con los colores de una foto: binario, octal, hexadecimal y cambios de base paso a paso &lpar;y el atardecer que me salió azul marino&rpar;](https://sergiolearns.com/sistemas-de-numeracion/)
+- [Sistemas de numeración — práctica con problemas guiados paso a paso: de cualquier base a decimal, binario con coma, grupos de bits y una cuestión con el formato del examen &lpar;y la coma que dividí como si fuera un entero&rpar;](https://sergiolearns.com/sistemas-de-numeracion-practica/)
+- [Sistemas de numeración — ejercicios resueltos con los canales de un color, opacidades en binario, un color de 12 bits y un cuestionario para practicar &lpar;y el 256 que no cabía en 8 bits&rpar;](https://sergiolearns.com/sistemas-de-numeracion-ejercicios/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Con lo que trabajo
